@@ -1,8 +1,8 @@
 # AXIOM KERNEL
 
-<table>
+<table width="100%">
 <tr>
-<td>
+<td width="50%" valign="top">
 
 ```
 ========================================================================
@@ -22,8 +22,8 @@
 ```
 
 </td>
-<td align="center">
-<img src="assets/sovereign_license.jpg" width="5000" alt="Sovereign License"/>
+<td width="50%" align="center" valign="middle">
+<img src="assets/sovereign_license.jpg" width="100%" style="display:block;" alt="Sovereign License"/>
 </td>
 </tr>
 </table>
