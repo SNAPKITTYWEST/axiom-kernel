@@ -1,9 +1,5 @@
 # AXIOM KERNEL
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
 ```
 ========================================================================
   SOVEREIGN LEVIATHAN NODE LICENSE
@@ -21,12 +17,9 @@
 ========================================================================
 ```
 
-</td>
-<td width="50%" align="center" valign="middle">
-<img src="assets/sovereign_license.jpg" width="100%" style="display:block;" alt="Sovereign License"/>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="assets/sovereign_license.jpg" width="100%">
+</p>
 
 **Version:** 1.0.0
 **Status:** IMMUTABLE
