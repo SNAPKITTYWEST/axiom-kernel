@@ -17,9 +17,65 @@
 ========================================================================
 ```
 
-<p align="center">
-  <img src="assets/sovereign_license.jpg" width="50%">
-</p>
+<table width="100%" border="0" cellspacing="0" cellpadding="12">
+<tr>
+<td width="25%" valign="middle" align="center">
+
+```
+╔═══════════════╗
+║  AXIOM CHAIN  ║
+╠═══════════════╣
+║  A0  BINARY   ║
+║    ↓          ║
+║  A1  EVIDENCE ║
+║    ↓          ║
+║  A2  PROVNCE  ║
+║    ↓          ║
+║  A3  NO MUT   ║
+║    ↓          ║
+║  A4  VISIBLE  ║
+║    ↓          ║
+║  A5  PRIORITY ║
+║    ↓          ║
+║  A6  MEM≠TRTH ║
+║    ↓          ║
+║  A7  REPLAY   ║
+╚═══════════════╝
+```
+
+</td>
+<td width="50%" align="center" valign="middle">
+  <img src="assets/sovereign_license.jpg" width="100%">
+</td>
+<td width="25%" valign="middle" align="center">
+
+```
+╔═══════════════╗
+║  PROOF CHAIN  ║
+╠═══════════════╣
+║  A8  REVISION ║
+║    ↓          ║
+║  A9  PROOF    ║
+║    ↓          ║
+║ A10  TRACE    ║
+║    ↓          ║
+║ A11  NO CIRC  ║
+║    ↓          ║
+║ A12  TEMPORAL ║
+║    ↓          ║
+║ A13  HUMAN    ║
+║    ↓          ║
+║  ┌────────┐   ║
+║  │ ACCEPT │   ║
+║  │   OR   │   ║
+║  │ REJECT │   ║
+║  └────────┘   ║
+╚═══════════════╝
+```
+
+</td>
+</tr>
+</table>
 
 **Version:** 1.0.0
 **Status:** IMMUTABLE
