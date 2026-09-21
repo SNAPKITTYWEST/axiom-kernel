@@ -18,7 +18,7 @@
 ```
 
 <p align="center">
-  <img src="assets/sovereign_license.jpg" width="100%">
+  <img src="assets/sovereign_license.jpg" width="50%">
 </p>
 
 **Version:** 1.0.0
