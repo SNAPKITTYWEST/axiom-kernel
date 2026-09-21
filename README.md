@@ -1,23 +1,30 @@
 # AXIOM KERNEL
 
-```
-========================================================================
-  SOVEREIGN LEVIATHAN NODE LICENSE
-  License-ID: SL-AGPL3-001 | Covenant-Version: 1.0
-  Copyright (C) 2026 SnapKittyWest. Ahmad Ali Parr,
-  Bel Esprit D'Accord Irrevocable Trust.
-========================================================================
-  Licensed under: MPL-2.0 OR GPL-3.0-or-later
-  With Sovereign Leviathan additional terms (AGPL-3.0 base).
-  Commercial repository.
-
-  "Hark, though this node be but a spark,
-   Its covenant endureth through the dark.
-   Ignorantia juris non excusat."
-========================================================================
-```
-
 <table width="100%" border="0" cellspacing="0" cellpadding="12">
+<tr>
+<td width="25%"></td>
+<td width="50%"></td>
+<td width="25%" valign="top" align="center">
+
+```
+╔══════════════════════════════════╗
+║   SOVEREIGN LEVIATHAN NODE       ║
+║   License-ID: SL-AGPL3-001       ║
+║   MPL-2.0 OR GPL-3.0-or-later    ║
+║   Copyright (C) 2026             ║
+║   SnapKittyWest. Ahmad Ali Parr  ║
+║   Bel Esprit D'Accord Trust      ║
+║                                  ║
+║  "Hark, though this node be      ║
+║   but a spark, its covenant      ║
+║   endureth through the dark."    ║
+║                                  ║
+║   Ignorantia juris non excusat.  ║
+╚══════════════════════════════════╝
+```
+
+</td>
+</tr>
 <tr>
 <td width="25%" valign="middle" align="center">
 
