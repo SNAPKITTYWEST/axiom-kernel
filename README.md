@@ -1,5 +1,9 @@
 # AXIOM KERNEL
 
+<table>
+<tr>
+<td>
+
 ```
 ========================================================================
   SOVEREIGN LEVIATHAN NODE LICENSE
@@ -16,6 +20,13 @@
    Ignorantia juris non excusat."
 ========================================================================
 ```
+
+</td>
+<td align="center">
+<img src="assets/sovereign_license.jpg" width="450" alt="Sovereign License"/>
+</td>
+</tr>
+</table>
 
 **Version:** 1.0.0
 **Status:** IMMUTABLE
