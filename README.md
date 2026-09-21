@@ -23,7 +23,7 @@
 
 </td>
 <td align="center">
-<img src="assets/sovereign_license.jpg" width="450" alt="Sovereign License"/>
+<img src="assets/sovereign_license.jpg" width="700" alt="Sovereign License"/>
 </td>
 </tr>
 </table>
